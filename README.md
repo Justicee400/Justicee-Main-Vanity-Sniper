@@ -1,6 +1,7 @@
 # Justicee-Main-Vanity-Sniper
 Url işini yaparken kullandığım main botumdu.Şuan iş yapar mı bilmiyorum büyük ihtimalle yapmaz.
 
+
 # Bu bot ile aldığımız urller
 nsfww
 400
